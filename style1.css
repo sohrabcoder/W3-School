@@ -1,0 +1,242 @@
+.left {
+    float: left;
+    font-size: 40px;
+    background-color: rgb(179, 230, 225);
+    width:65%;
+}     
+
+.tech {
+    padding-right: 500px;
+}
+
+.wow {
+    background-color: #04AA6D;
+    color: white;
+    font-size: 30px;
+    text-align: left;
+    display: block;
+    width: 200px;
+    height: 80px;
+    border-radius: 25px;
+}
+
+.ohh {
+    
+    background-color: #FFF4A3;
+    color: black;
+    display: block;
+    width: 300px;
+    border-radius: 25px;
+    font-size: 30px;
+}
+
+.back {
+    background-color: #282A35;
+    font-size: 30px;
+    text-align: left;
+    display: block;
+    width: 250px;
+    border-radius: 25px;
+    color: white;
+}
+
+.hello {
+    background-color: #FFC0C7;
+    color: black;
+    font-size: 30px;
+    float: left;
+    margin: auto;
+    display: block;
+    width: 300px;
+    border-radius: 25px;
+}
+
+.medium {
+    text-align: left;
+    color: wheat;
+    background-color: #059862;
+    display: inline-block;
+    
+}
+
+
+.right {
+    float: right;
+    font-size: 25px;
+    width: 35%;
+    height: 750px;
+    background-color: rgb(159, 167, 166);
+}
+.move{
+    width: 100%;
+}
+
+
+.head {
+    float: left;
+    font-size: 40px;
+    background-color:#2374b2;
+    width:65%;
+}
+
+.pro {
+    float: right;
+    font-size: 25px;
+    margin-top: 0px;
+    width: 35%;
+    height: 620px;
+    margin-bottom: 70px;
+    background-color: rgb(87, 144, 137);
+}
+
+.run {
+    
+    float: right;
+    font-size: 25px;
+    width: 35%;
+    height: 500px;
+    background-color: rgb(224, 117, 137);
+}
+
+.classic {
+    text-align: center;
+    margin-top: -120px;
+    font-size: 23px;
+    width: 35%;
+    margin-bottom: -40px;
+} 
+
+.log {
+    float: left;
+    font-size: 30px;
+    background-color:#1d2a35;
+    width:65%;
+}
+
+.java {
+    color: white;
+}
+
+.prog {
+    color: white;
+}
+
+.learn {
+    background-color: #04AA6D;
+    color: white;
+    font-size: 30px;
+    text-align: left;
+    display: block;
+    width: 300px;
+    border-radius: 25px;
+}
+
+.refer {
+    background-color: #4f60f7;
+    color: black;
+    display: block;
+    width: 300px;
+    border-radius: 25px;
+    font-size: 30px;
+}
+
+.buy {
+    background-color: #FFC0C7;
+    color: black;
+    font-size: 30px;
+    float: left;
+    margin: auto;
+    display: block;
+    width: 300px;
+    border-radius: 25px;
+
+}
+
+.moving {
+    width: 100%;
+}
+
+
+.total {
+    float: left;
+    font-size: 30px;
+    padding-left: 250px;
+    background-color: rgb(200, 141, 192);
+    width: 500px;
+
+}
+
+.python {
+    float: right;
+    font-size: 40px;
+    margin-bottom: 20px;
+    padding-right: 250px;
+    color: white;
+    width: 49.5%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.column25 {
+    background-color: #f4dabe;
+    margin-top: 70px;
+    margin-left: 150px;
+    margin-right: 50px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.column26 {
+    background-color: #aee8f0;
+    margin-top: 70px;
+    margin-right: 160px;
+    margin-left: 40px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.column27 {
+    background-color: #f1c5c5;
+    margin-top: 70px;
+    margin-left: 150px;
+    margin-right: 40px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.column28 {
+    background-color: #dcb7da;
+    margin-top: 70px;
+    margin-left: 50px;
+    margin-right: 150px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.material-symbols-outlined {
+    float: center;
+    width: 100px;
+    height: 100px;
+    color: #04AA6D;
+  }
